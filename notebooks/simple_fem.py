@@ -201,6 +201,8 @@ class FEM:
             pc.set_array(element_property)
             ax.add_collection(pc)
 
+
+
         # Nodes
         if len(pos) < 200:
             plt.scatter(pos[:, 0], pos[:, 1], color="black", marker="o")
@@ -215,6 +217,7 @@ class FEM:
             x1 = [pos[node, 0] for node in element] + [pos[element[0], 0]]
             x2 = [pos[node, 1] for node in element] + [pos[element[0], 1]]
             plt.plot(x1, x2, color="black")
+
 
         # Forces
         for i, force in enumerate(self.forces):
@@ -231,7 +234,7 @@ class FEM:
                     zorder=10,
                 )
 
-        # Contraints
+        # Constraints
         for i, constraint in enumerate(self.constraints):
             x = pos[i][0]
             y = pos[i][1]

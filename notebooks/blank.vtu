@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+<!--This file was created by meshio v5.3.4-->
+<UnstructuredGrid>
+<Piece NumberOfPoints="86" NumberOfCells="174">
+<Points>
+<DataArray type="Float64" Name="Points" NumberOfComponents="3" format="binary">
+AQAAAACAAAAQCAAAZAQAAA==eJyN1GlQU1cUB3BcEB2UIMNqcYIFFCS2FTEEZDkMJBAWA0QIJpQQ0uQJfSFKB8S2UmTVsoipMkBV1NYqCKQIgrWbbcgIIi0CgkJaxhFoscNSqBWMA03S6bvWxwfvh/vhN2f+78y59z4joxdXMhi9ygL50nWEk3MGW2RDLTIJya/reUhE8s1shRNbEU9yjSEnhuROhvpwkm8yuA/hDxd1y9+fVPevc0g+rnc5j+QjhnohyZ/ovVBM8nlDDkby53rnvUtyw9LN0+ml/v/v4SRfcj46X3KeOl9y/jp/+bxW6re4//pE52ui3/ZjJDfVb0fFJLc35AtJbmvI4ZHcwVDPITnV4P4kd60oASobh6ZVtN4I772Ed7cFnKkDOrC9JSp/GvKPtxy/MlgggsIzI5aqKS/C2+/Uf7uRKYCOD0zzc86iOZTGPlvXGCcBd1rV5cxTyGdlb5Szi7hw9BaroCQC5Sibp6KjmckgoZSOfbnRl/BeV/dGC8cQ8GtRcXqLUU68cYA8F8Oheu5pR1wZukfNxR4xUVW7wMxkcxgzgUX4jSkvYX8ZF3zL4YDZeZQTylvT1CfgwaT1lPpaSBKaZ+zf/X+tEULynRC1yg95WDvr+J9UAWiiaiQnR98mvMynNjExUQSM0LU2/C7kz4d6vH7RJID9I82Oj4LQ+0h/XLf41S4xBOKlhbk05KmNyxvb/Xiw0/qW+goXuRt2ag5zkwA/4v2ZvhqUrziWZrtey4fmwwMXq76OJPy3gjyB4r4UKjkx9q4PYwmPi+ofNrWWgHml2eeXKlC9zfz9AlECF8yOlM93diK/WF9OHf9jH7CGs7/xdkPvnsFPooyaRcK+FewM522oz7Zclmf+dDDEb0hnXZpDOW+eo5000d2/rS3Liq+Hof6Nj9zNyswWwaEvXCIrX7gn69Pn8e0LUhC7TDr5vo7mf9pzYLFoPwdkjrnmilDkNz0anmKrAgDnJ8ZMMpA7K0aq+wODQd1gbGnxFvquMsf20XQ+F1wn1KNut5Gfd844Ns2RQIedHYabo/v5SUbFwuPtAliNLVLb+AzCfZQpofwoMdBzq6Wn6ei77QcbetbtFkG4rH76x240h9ROjUubAIefsrDw1k2JhCf1CQdU4ckgp15tdS9Fc/iBp8lRKoLB597ve9+ZpRMeaDWjDAjDISatmza8LZpwO09xuX8gDt9RrpbNaZmE/0xVS2s1dPDtOkwL4KL62bNW0DS2G0weWEXWz6L34lBrGb/6hAeElIR61q5E/2+LTtVMrysPnA7lw47MYMI/61J8Lyz1BDmeunCPgvp3ZFQObR1MAEqeA3+FFNWbB7bmtTDEYCn49cB7hcg/HVsr2FMghZRY7AH4IW8smvhwcHkKMPOlpnXL0Jw3iC5jJ87hkEa9meV+UEp4TVCzXS99J1zjSDNek3oQ/sTOoUPVkwwDHNXtu8/Q/39Wm6Edr8OhayT7QvseVN/mcWNCOxAE2WmTYTbe6B39A/+18nc=
+</DataArray>
+</Points>
+<Cells>
+<DataArray type="Int64" Name="connectivity" format="binary">
+AQAAAACAAAAgDwAA0gIAAA==eJxt19dWlEEQhdEBzDlhQgVBERhEEUUdBUcRDChG3v9VvPDsC89ybr5F/125uroZDP7+JsLJcGrw7+9I8WjxWPF48UTxZHGieKp4unimeLZ4rni+eKE4WbxYvFS8XLxSnC5eLU4VrxWvF28UbxZnireKt4t+6vll8P+fdXL3wg/hs+K32vcg/BQ+D3dr3b7XZVd/0c/uXn23Xzyj8H04H74M39b6fK2T5+/H8lMd6CP/KtwOl8PNWt8K1Y8eetn/XnHI65tQP98P5Y8f7GzX+lL5dzecqe/WnbNxuFD22Gn9/l4u8mcYyo98Pw3F1XoflZz9+pSc/nfO5a/ztlT7n4Qvwsfl/0ooP+aMuszVd/VVb3XWN865PMuveUffODTn7oQ75e9axcF/+V6tOOSD/+IR77D26xPxiYscf3su81+c9OoHdeU/v1fru3qvh+qmjvwj71zT87DstH7+6K9hfSdPjv6VorrL00ZonqnPWn23Tg/99PGn/RjVfvHzW77I6ZdR7TdXP4fOObl35fd6rXd+rYtPv5tr7j397n5w/7s3F0P3qveDuex94d0xG3qXuJ+dG/e3PPyq7+QPw62idX3CL+eRvcVan67v1tk1x9xr5pR5IW/yaF7ImzzS577sd4v1ft+4Z71/2HMfiUefyps80ksPverkPu16We+66UN9qV9+hN5R+uVn2O/a36H7gBw9+owcPfpMPuihVxz8F4/7xrvIfNU/4hKvPPNHnOrKH3E6l/TQOw73Q/3B/kE4F6onu/xQL3b5Qe5r2XN/e9eZ0/Itb/2OkR9+6Xf9L056xUX/Qq3bx096219/k9O/+txcVB951pfskzcH+cOP3frOrrmob8wT9vZrf8uLix7n3Xncq+/2bxTlv9/z9Djn5hw/1dv8kjd5ZI9+9pwz/ab/nDP9pv/0i/4xV8ixyw9x87//f6DHeRaHuNTjD4aXUqo=
+</DataArray>
+<DataArray type="Int64" Name="offsets" format="binary">
+AQAAAACAAABwBQAATwEAAA==eJwtxVFoDAAAANCd00IX6zJdpgtdmy7W2taFrm3R1kTTNFk0EVlb00REk2XRtEVbFhFZNNG0tWVNFhHRFm1NE23RRCm1UkqplY977+cF0lIWOOiFTvciL3HIS53hsJd7hSNe6VWOerXXOuZsr3Pc653rPOe70Alv9GYnXeQSb3WZt3mHd3qXd7va+7zfB33Yta73UR/zCZ/yGZ91s1t80Zfc7ivudJev+6Zvu9v3fN8P/cj9HvSQn3jEz/3Sr/3WY37vCX/wR3/2jL/6m3/4p395zr/9x3/9z/NOC6QKOt2LHfIyh53piLMc9RrHnOO4NzjPBU54k5Mu9haXutzbXeFKV3mP97rGB3zIR1znBjf6uE/6tJt8zud9wa1u82V3+Kqv+YZv+Y7vuscP3Os+D/ixh/3Uz/zCr/zGo37ncU96yp887S+e9Xf/B17tThw=
+</DataArray>
+<DataArray type="Int64" Name="types" format="binary">
+AQAAAACAAABwBQAAHAAAAA==eJxjZIAARhw08wijWUfpUXqUHqVpRAMA1vEDGw==
+</DataArray>
+</Cells>
+<PointData>
+<DataArray type="Int64" Name="gmsh:dim_tags" NumberOfComponents="2" format="binary">
+AQAAAACAAABgBQAALwAAAA==eJxjYIAARgZUwITGZ0bjs6DpozXNRGc+M4356OFHKz69w22UP8of5SP4AOOOAQ8=
+</DataArray>
+</PointData>
+<CellData>
+<DataArray type="Int64" Name="gmsh:geometrical" format="binary">
+AQAAAACAAABwBQAAKwAAAA==eJxjZIAAJijNDKVZoDQjmTQThTQzmTQLhTS5/h2lR+lRepQmRAMA2EYA4w==
+</DataArray>
+<DataArray type="Int64" Name="gmsh:bounding_entities" format="binary">
+AQAAAACAAABwBQAAJAAAAA==eJz7/584wAAF1JYnpI9S9eS6g4EAINf+UTAKRsHIBQAEPhM0
+</DataArray>
+</CellData>
+</Piece>
+</UnstructuredGrid>
+</VTKFile>
