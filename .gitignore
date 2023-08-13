@@ -22,6 +22,5 @@ main.pdf
 *.toc 
 
 # VTK and visualization
-*.vtk
 *.stl
 *.pvsm
